@@ -1,8 +1,8 @@
 //Exercise 5: For
 
 /*
-5.a) Crear un array que contenga 5 palabras y recorrer dicho array utilizando un bucle for de JavaScript para mostrar
-una alerta utilizando cada una de las palabras.
+  5.a) Crear un array que contenga 5 palabras y recorrer dicho array utilizando un bucle for de JavaScript para mostrar
+  una alerta utilizando cada una de las palabras.
 */
 
 var words = ['seek', 'candle', 'guitar', 'lion', 'egg'];
